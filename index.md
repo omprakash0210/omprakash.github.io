@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Bio of Om Prakash
 
 You can use the [editor on GitHub](https://github.com/omprakash0210/omprakash.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
